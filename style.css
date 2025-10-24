@@ -1,0 +1,76 @@
+*{
+    margin: 0;
+}
+body{
+background-color: rgba(189, 179, 166, 0.286);
+}
+header{
+    background-color: rgb(53, 88, 97);
+    padding: 50px;
+    text-align:center;
+    background: rgb(53,88,97);
+background: linear-gradient(141deg,rgb(53,88,97) 0%, rgba(0,49,255,0.48) 70%, rgb(103,177,234) 90%);
+background: -webkit-linear-gradient(141deg,rgb(53,88,97) 0%, rgba(0,49,255,0.48) 70%, rgb(103,177,234) 90%);
+background: -moz-linear-gradient(141deg,rgb(53,88,97) 0%, rgba(0,49,255,0.48) 70%, rgb(103,177,234) 90%);
+   
+}
+h1{
+    margin: 20px;
+    text-transform: capitalize;
+         color: blanchedalmond;
+}
+h2{
+    color: rgb(8, 65, 109);
+}
+main{
+    margin: 0 auto ;
+    width: 800px;
+}
+section{
+    margin: 24px auto;
+    background-color: rgba(240, 248, 255, 0.686); 
+    padding:24px ;
+    border-radius: 10px;
+    box-shadow: 2px 2px 6px 0px rgba(0, 0, 0, 0.5);
+-webkit-box-shadow: 2px 2px 6px 0px rgba(0, 0, 0, 0.5);
+-moz-box-shadow: 2px 2px 6px 0px rgba(0, 0, 0, 0.5);
+}
+section h3{
+    color: rgb(53, 88, 97);
+    font-size: 30px;
+    margin-bottom: 12px;
+}
+ul{
+    list-style-type: none;
+    padding-left: 0;
+}
+li{
+    background-color:rgba(103, 177, 234, 0.326); ;
+    margin-bottom: 4px;
+    padding: 8px;
+    border-radius: 4px;
+    text-transform: capitalize;
+}
+footer{
+        background-color: rgb(53, 88, 97);
+        padding: 24px;
+        text-align: center;
+        font-size: 18px;
+        color: blanchedalmond;
+}
+.sobreMim p{
+    font-size: 18px;
+    text-align: justify;
+    color:;
+}
+.contato a,.contato p{
+    text-decoration: none;
+    color:rgb(8, 65, 109);
+}
+.contato strong
+{
+    color:black ;
+}
+.contato a:hover{
+    text-decoration: underline;
+}
