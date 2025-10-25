@@ -61,7 +61,8 @@ footer{
 .sobreMim p{
     font-size: 18px;
     text-align: justify;
-    color:;
+    display:none;
+
 }
 .contato a,.contato p{
     text-decoration: none;
